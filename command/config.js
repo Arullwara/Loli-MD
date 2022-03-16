@@ -15,10 +15,10 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 
-global.ownername = 'Bot Indo'
-global.owner = ['628811929177']
-global.packname = 'LoliBot MD'
-global.author = 'LoliBot MD'
+global.ownername = 'Hyzer'
+global.owner = ['6287892711054']
+global.packname = 'KanaoBot-MD'
+global.author = 'KanaoBot-MD'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -28,8 +28,8 @@ owner: 'Fitur Khusus Owner Bot',
 eror: 'Yah eror',
 group: 'Fitur Digunakan Hanya Untuk Group!',
 private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-bot: 'Fitur Khusus Pengguna Nomor Bot',
-wait: 'Loading...',
+bot: 'dame dame..',
+wait: 'Matsu...',
 }
 
 let file = require.resolve(__filename)
